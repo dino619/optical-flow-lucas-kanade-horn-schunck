@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large/raw assignment data
+lab2/
+collision/
+disparity/
+
+# Packaged/course files
+Assignment1.zip
+Project-1.pdf
+Report-example.pdf
+Intro-exercise1.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
