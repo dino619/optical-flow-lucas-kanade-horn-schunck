@@ -24,6 +24,16 @@ Horn-Schunck produced smoother dense flow and lower residuals, while Lucas-Kanad
 
 The pyramidal LK part worked as an implementation experiment, but the report notes that the current pyramid settings still need tuning.
 
+## Example figures
+
+Synthetic optical flow example:
+
+![Synthetic optical flow result](report_temp_figs/figure1_flows.png)
+
+Real image pair from the report:
+
+![Real image optical flow result](report_temp_figs/figure4_flows.png)
+
 ## Files
 
 ```text
